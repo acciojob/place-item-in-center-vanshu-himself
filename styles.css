@@ -1,2 +1,9 @@
-
+*{
+	margin:0px;
+	padding:0px;
+	
+}
+body{display:flex;
+margin:auto;
+	}
 /* Your CSS Code here. */
